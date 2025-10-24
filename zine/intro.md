@@ -1,2 +1,1 @@
-This is my Time Machine. There are many like it, but this one is mine.
-Two-column look with simple headings and monospaced captions.
+This is my advanced Time Machine design. It will rewrite history.
