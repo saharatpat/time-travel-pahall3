@@ -1,1 +1,1 @@
-This is my experimental Time Machine. It can see the future.
+This is my advanced experimental Time Machine. It can rewrite history and see the future.
