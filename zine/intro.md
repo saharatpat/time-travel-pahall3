@@ -1,1 +1,1 @@
-This is my advanced Time Machine design. It will rewrite history.
+This is my advanced experimental Time Machine. It can rewrite history and see the future.
